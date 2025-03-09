@@ -13,12 +13,13 @@ const App = () => {
     <div className="container mx-auto px-8">
       <h1 className="text-xl font-bold mb-4">Themed Buttons</h1>
       <div className="space-y-4">
-        <ThemedButton 
+        <ThemedButton  
           label="Primary Button" 
           variant="primary" 
           onClick={handleClick} 
-          size="medium" 
+          size="medium"
         />
+
         <ThemedButton 
           label="Secondary Button" 
           variant="secondary" 

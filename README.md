@@ -1,6 +1,6 @@
-# Button_App
+# Themed-Button
 
-Button_App is a React.js project that showcases a customizable Button component styled with Tailwind CSS. This repository provides documentation on how to implement and use the Button component, along with examples demonstrating various button variations.
+Themed-Button is a React.js project that showcases a customizable Button component styled with Tailwind CSS. This repository provides documentation on how to implement and use the Button component, along with examples demonstrating various button variations.
 
 ## Table of Contents
 
@@ -15,11 +15,11 @@ Button_App is a React.js project that showcases a customizable Button component 
 
 ## Installation
 
-To get started with Button_App, clone the repository and install the necessary dependencies:
+To get started with Themed-Button_App, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/TanmoyFRu/Button_App.git
-cd Button_App
+git clone https://github.com/SyntkaFRu/Themed-Button
+cd Themed-Button
 npm install
 ```
 
